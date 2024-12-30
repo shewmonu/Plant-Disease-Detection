@@ -1,1 +1,2 @@
 # Plant-Disease-Detection
+The objective of this project is to develop a machine learning model that can detect plant diseases from images. This can assist farmers and agricultural professionals in identifying diseases early, thereby minimizing crop damage and improving yield. The model primarily relies on image processing techniques and Convolutional Neural Networks (CNNs) to classify plant images as healthy or diseased.
